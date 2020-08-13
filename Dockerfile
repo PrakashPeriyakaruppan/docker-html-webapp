@@ -8,4 +8,4 @@ COPY content/ .
 
 EXPOSE 82
 
-ENTRYPOINT ["index.html", "w3svc"]
+ENTRYPOINT ["index.html", "webapp"]
