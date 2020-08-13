@@ -1,2 +1,1 @@
-# docker-html-webapp
-docker-html-webapp
+# sample-DotNet-repo
